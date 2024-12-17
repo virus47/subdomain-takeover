@@ -1,2 +1,2 @@
 <h1> Subdomain Takeover</h1>
-<b1>by Virus47</b1>
+<h2>by Virus47</h2>
